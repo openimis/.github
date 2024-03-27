@@ -1,6 +1,6 @@
 <!-- Note to editors
 
-The page is only intended to guide people to the official platforms of the openIMIS initiative. Please keep the content lean and crisp. If you need to explain things in more detail, please link out to the official platforms and add your content there:
+This page is only intended to guide people to the official platforms of the openIMIS initiative. Please keep the content lean and crisp. If you need to explain things in more detail, please link out to the official platforms and add your content there:
 
 - public presentation of openIMIS: https://openIMIS.org
 - public doumentation of openIMIS: https://wiki.openIMIS.org

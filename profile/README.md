@@ -38,7 +38,6 @@ Here are the essential packages for a quick start:
 For selective installs:
 - Download and install the **front-end modules only**: [openimis-fe_js](https://github.com/openimis/openimis-fe_js).
 - Download and install the **back-end modules only**: [openimis-be_py](https://github.com/openimis/openimis-be_py).
-- Download and install the **back-end modules only**: [openimis-be_py](https://github.com/openimis/openimis-be_py).
 - Download and install an **alternate DB layer based on M$ SQL server**: [database_ms_sqlserver](https://github.com/openimis/database_ms_sqlserver).
 
 Mobile Apps:

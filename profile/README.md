@@ -19,14 +19,14 @@ openIMIS is an interoperable, versatile open source software which supports the 
 
 More than 10.6 million people in 12 countries benefit from health insurance, employment injury insurance, cash transfer and voucher schemes managed using openIMIS.
 
-# Get to know the software
+# Get to Know the Software
 
 - [Website](https://openIMIS.org/)
 - [Demo server](https://openimis.atlassian.net/wiki/spaces/OP/pages/40665111)
 - [Download](https://openimis.atlassian.net/wiki/spaces/OP/pages/368508929)
 - [Documentation](https://openimis.atlassian.net/wiki/spaces/OP/pages/147390465)
 
-# Using the openIMIS github repositories
+# Using the openIMIS github Repositories
 
 openIMIS is build in a modular structure purely based on open source technologies. The full package is distributed in 6-monthly [release cycles](https://openimis.atlassian.net/wiki/spaces/OP/pages/1322221610/Releases). The high degree of modularity reflects in a multitude of github repositories.  
 

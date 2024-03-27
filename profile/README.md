@@ -17,7 +17,7 @@ Kindly only correct obvious errors on this page. For structural changes please r
 
 openIMIS is an interoperable, versatile open source software which supports the administration of health financing and social protection schemes. It is designed to manage the complex, high-volume data flows which are required to operate such schemes by seamlessly integrating beneficiary, provider and payer data.
 
-More than 10.6 million people in 12 countries benefit from health insurance, employment injury insurance, cash transfer and voucher schemes managed using openIMIS.
+Over 13 million people in more than 12 countries benefit from social protection programmes (health insurance, employment injury insurance, cash transfer and voucher schemes) managed using openIMIS.
 
 # Get to know the software
 

@@ -36,13 +36,13 @@ Here are the essential packages for a quick start:
   Follow the [installation instructions in the wiki](https://openimis.atlassian.net/wiki/spaces/OP/pages/963182705/MO1.1+Install+the+modular+openIMIS+using+Docker).
 
 For selective installs:
-- Download and install the **front-end modules only**: [openimis-fe_js](https://github.com/openimis/openimis-fe_js).
-- Download and install the **back-end modules only**: [openimis-be_py](https://github.com/openimis/openimis-be_py).
-- Download and install an **alternate DB layer based on M$ SQL server**: [database_ms_sqlserver](https://github.com/openimis/database_ms_sqlserver).
+- Download and install the **front-end modules only**: [openimis-fe_js](https://github.com/openimis/openimis-fe_js/tree/main).
+- Download and install the **back-end modules only**: [openimis-be_py](https://github.com/openimis/openimis-be_py/tree/main).
+- Download and install an **alternate DB layer based on M$ SQL server**: [database_ms_sqlserver](https://github.com/openimis/database_ms_sqlserver/tree/main).
 
 Mobile Apps:
-- mobile app for insuree registration: [policies_android_app_java](https://github.com/openimis/policies_android_app_java).
-- mobile app for electronic claim submission: [claims_android_app_java](https://github.com/openimis/claims_android_app_java). 
+- mobile app for insuree registration: [policies_android_app_java](https://github.com/openimis/policies_android_app_java/tree/main).
+- mobile app for electronic claim submission: [claims_android_app_java](https://github.com/openimis/claims_android_app_java/tree/main). 
 
 # Contact
 

@@ -32,7 +32,7 @@ openIMIS is build in a modular structure purely based on open source technologie
 
 Here are the essential packages for a quick start:
 
-- Download and install the full openIMIS stack with an **all-inclusive docker package**: [openimis-dist_dkr](https://github.com/openimis/openimis-dist_dkr). <br>
+- Download and install the full openIMIS stack with an **all-inclusive docker package**: [openimis-dist_dkr](https://github.com/openimis/openimis-dist_dkr/tree/main). <br>
   Follow the [installation instructions in the wiki](https://openimis.atlassian.net/wiki/spaces/OP/pages/963182705/MO1.1+Install+the+modular+openIMIS+using+Docker).
 
 For selective installs:

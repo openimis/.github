@@ -12,7 +12,7 @@ Motivation ?
 
 ## Related Issue(s) / Task(s)
 - [ ] Requires #NNN, #NNN needs to be merged first before this one
-- [ ] Relates to #5678, this needs to be merged before #NNN
+- [ ] Relates to #NNN, this needs to be merged before #NNN
 - [ ] External reference (e.g., Jira):
 
 ## Demo

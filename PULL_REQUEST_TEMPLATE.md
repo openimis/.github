@@ -9,10 +9,11 @@ Motivation ?
 - [ ] Feature
 - [ ] Bug fix
 - [ ] Chore (Refactor, Docs, CI/CD)
+- [ ] Other, please specify
 
 ## Related Issue(s) / Task(s)
-- [ ] Requires #NNN, #NNN needs to be merged first before this one
-- [ ] Relates to #NNN, this needs to be merged before #NNN
+- [ ] Requires [link to github PR], [link to github PR] needs to be merged first before this one
+- [ ] Relates to [link to github PR], this needs to be merged before [link to github PR]
 - [ ] External reference (e.g., Jira):
 
 ## Demo

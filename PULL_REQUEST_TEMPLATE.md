@@ -5,8 +5,6 @@
 
 A clear, concise description of the change. Why is it needed? What problem does it solve?
 
-Motivation ?
-
 # Type of Change
 
 - [ ] Feature

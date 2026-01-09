@@ -1,3 +1,6 @@
+#Thank you for your contribution to openIMIS!
+#Please complete the sections below. Anything in comments is guidance and can be deleted.
+
 # Description
 
 A clear, concise description of the change. Why is it needed? What problem does it solve?

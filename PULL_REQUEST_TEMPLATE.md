@@ -21,7 +21,7 @@ Motivation ?
 
 ## Demo
 
-Provide a demo here.
+Upload screenshots/gifs or link to any demo video here.
 
 ## Checklist
 - [ ] Unit tests added/modified
